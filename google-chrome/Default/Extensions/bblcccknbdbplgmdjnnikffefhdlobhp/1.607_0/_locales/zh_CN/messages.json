@@ -1,0 +1,23 @@
+{
+   "global_direction": {
+      "message": "ltr"
+   },
+   "global_float": {
+      "message": "right"
+   },
+   "global_fontFamily": {
+      "message": "auto"
+   },
+   "global_textAlign": {
+      "message": "left"
+   },
+   "manifest_appDescription": {
+      "message": "快速安全通道是一款速度最快的全球网站加速插件，简单易用的智能上网服务。无繁琐配置，即装即用。"
+   },
+   "manifest_appName": {
+      "message": "快速安全通道"
+   },
+   "manifest_iconTitle": {
+      "message": "[载入中……]"
+   }
+}

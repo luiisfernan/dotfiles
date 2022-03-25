@@ -1,0 +1,835 @@
+{
+   "AD": {
+      "message": "Andorra"
+   },
+   "AE": {
+      "message": "Emirati Arabi Uniti"
+   },
+   "AF": {
+      "message": "Afghanistan"
+   },
+   "AG": {
+      "message": "Antigua e Barbuda"
+   },
+   "AI": {
+      "message": "Anguilla"
+   },
+   "AL": {
+      "message": "Albania"
+   },
+   "AM": {
+      "message": "Armenia"
+   },
+   "AO": {
+      "message": "Angola"
+   },
+   "AQ": {
+      "message": "Antartide"
+   },
+   "AR": {
+      "message": "Argentina"
+   },
+   "AS": {
+      "message": "Samoa Americane"
+   },
+   "AT": {
+      "message": "Austria"
+   },
+   "AU": {
+      "message": "Australia"
+   },
+   "AW": {
+      "message": "Aruba"
+   },
+   "AX": {
+      "message": "Isole Åland"
+   },
+   "AZ": {
+      "message": "Azerbaigian"
+   },
+   "BA": {
+      "message": "Bosnia ed Erzegovina"
+   },
+   "BB": {
+      "message": "Barbados"
+   },
+   "BD": {
+      "message": "Bangladesh"
+   },
+   "BE": {
+      "message": "Belgio"
+   },
+   "BF": {
+      "message": "Burkina Faso"
+   },
+   "BG": {
+      "message": "Bulgaria"
+   },
+   "BH": {
+      "message": "Bahrain"
+   },
+   "BI": {
+      "message": "Burundi"
+   },
+   "BJ": {
+      "message": "Benin"
+   },
+   "BL": {
+      "message": "San Bartolomeo"
+   },
+   "BM": {
+      "message": "Bermuda"
+   },
+   "BN": {
+      "message": "Brunei"
+   },
+   "BO": {
+      "message": "Bolivia"
+   },
+   "BQ": {
+      "message": "Caraibi Olandesi"
+   },
+   "BR": {
+      "message": "Brasile"
+   },
+   "BS": {
+      "message": "Bahamas"
+   },
+   "BT": {
+      "message": "Bhutan"
+   },
+   "BV": {
+      "message": "Isola Bouvet"
+   },
+   "BW": {
+      "message": "Botswana"
+   },
+   "BY": {
+      "message": "Bielorussia"
+   },
+   "BZ": {
+      "message": "Belize"
+   },
+   "CA": {
+      "message": "Canada"
+   },
+   "CC": {
+      "message": "Isole Cocos"
+   },
+   "CD": {
+      "message": "Repubblica Democratica del Congo"
+   },
+   "CF": {
+      "message": "Repubblica Centrafricana"
+   },
+   "CG": {
+      "message": "Congo"
+   },
+   "CH": {
+      "message": "Confederazione Svizzera"
+   },
+   "CI": {
+      "message": "Costa d'Avorio"
+   },
+   "CK": {
+      "message": "Isole Cook"
+   },
+   "CL": {
+      "message": "Cile"
+   },
+   "CM": {
+      "message": "Camerun"
+   },
+   "CN": {
+      "message": "Cina"
+   },
+   "CO": {
+      "message": "Colombia"
+   },
+   "CR": {
+      "message": "Costa Rica"
+   },
+   "CU": {
+      "message": "Cuba"
+   },
+   "CV": {
+      "message": "Capo Verde"
+   },
+   "CW": {
+      "message": "Curacao"
+   },
+   "CX": {
+      "message": "Isola di Christmas"
+   },
+   "CY": {
+      "message": "Cipro"
+   },
+   "CZ": {
+      "message": "Repubblica Ceca"
+   },
+   "DE": {
+      "message": "Germania"
+   },
+   "DJ": {
+      "message": "Gibuti"
+   },
+   "DK": {
+      "message": "Danimarca"
+   },
+   "DM": {
+      "message": "Dominica"
+   },
+   "DO": {
+      "message": "Repubblica Dominicana"
+   },
+   "DZ": {
+      "message": "Algeria"
+   },
+   "EC": {
+      "message": "Ecuador"
+   },
+   "EE": {
+      "message": "Estonia"
+   },
+   "EG": {
+      "message": "Egitto"
+   },
+   "EH": {
+      "message": "Sahara Occidentale"
+   },
+   "ER": {
+      "message": "Eritrea"
+   },
+   "ES": {
+      "message": "Spagna"
+   },
+   "ET": {
+      "message": "Etiopia"
+   },
+   "FAQ": {
+      "message": "FAQ"
+   },
+   "FI": {
+      "message": "Finlandia"
+   },
+   "FJ": {
+      "message": "Figi"
+   },
+   "FK": {
+      "message": "Isole Falkland"
+   },
+   "FM": {
+      "message": "Micronesia"
+   },
+   "FO": {
+      "message": "Isole Faroe"
+   },
+   "FR": {
+      "message": "Francia"
+   },
+   "GA": {
+      "message": "Gabon"
+   },
+   "GB": {
+      "message": "Regno Unito"
+   },
+   "GD": {
+      "message": "Grenada"
+   },
+   "GE": {
+      "message": "Georgia"
+   },
+   "GF": {
+      "message": "Guiana Francese"
+   },
+   "GG": {
+      "message": "Guernsey"
+   },
+   "GH": {
+      "message": "Ghana"
+   },
+   "GI": {
+      "message": "Gibilterra"
+   },
+   "GL": {
+      "message": "Groenlandia"
+   },
+   "GM": {
+      "message": "Gambia"
+   },
+   "GN": {
+      "message": "Guinea"
+   },
+   "GP": {
+      "message": "Guadalupa"
+   },
+   "GQ": {
+      "message": "Guinea Equatoriale"
+   },
+   "GR": {
+      "message": "Grecia"
+   },
+   "GS": {
+      "message": "Georgia del Sud e isole Sandwich meridionali"
+   },
+   "GT": {
+      "message": "Guatemala"
+   },
+   "GU": {
+      "message": "Guam"
+   },
+   "GW": {
+      "message": "Guinea-Bissau"
+   },
+   "GY": {
+      "message": "Guyana"
+   },
+   "HK": {
+      "message": "Hong Kong"
+   },
+   "HM": {
+      "message": "Isole Heard e McDonald"
+   },
+   "HN": {
+      "message": "Honduras"
+   },
+   "HR": {
+      "message": "Croazia"
+   },
+   "HT": {
+      "message": "Haiti"
+   },
+   "HU": {
+      "message": "Ungheria"
+   },
+   "ID": {
+      "message": "Indonesia"
+   },
+   "IE": {
+      "message": "Irlanda"
+   },
+   "IL": {
+      "message": "Israele"
+   },
+   "IM": {
+      "message": "Isola di Man"
+   },
+   "IN": {
+      "message": "India"
+   },
+   "IO": {
+      "message": "Territorio Britannico dell’Oceano Indiano"
+   },
+   "IQ": {
+      "message": "Iraq"
+   },
+   "IR": {
+      "message": "Iran"
+   },
+   "IS": {
+      "message": "Islanda"
+   },
+   "IT": {
+      "message": "Italia"
+   },
+   "JE": {
+      "message": "Jersey"
+   },
+   "JM": {
+      "message": "Giamaica"
+   },
+   "JO": {
+      "message": "Giordania"
+   },
+   "JP": {
+      "message": "Giappone"
+   },
+   "KE": {
+      "message": "Kenya"
+   },
+   "KG": {
+      "message": "Kirghizistan"
+   },
+   "KH": {
+      "message": "Cambogia"
+   },
+   "KI": {
+      "message": "Kiribati"
+   },
+   "KM": {
+      "message": "Comore"
+   },
+   "KN": {
+      "message": "Saint Kitts e Nevis"
+   },
+   "KP": {
+      "message": "Corea del Nord"
+   },
+   "KR": {
+      "message": "Corea del Sud"
+   },
+   "KW": {
+      "message": "Kuwait"
+   },
+   "KY": {
+      "message": "Isole Cayman"
+   },
+   "KZ": {
+      "message": "Kazakistan"
+   },
+   "LA": {
+      "message": "Laos"
+   },
+   "LB": {
+      "message": "Libano"
+   },
+   "LC": {
+      "message": "Santa Lucia"
+   },
+   "LI": {
+      "message": "Liechtenstein"
+   },
+   "LK": {
+      "message": "Sri Lanka"
+   },
+   "LR": {
+      "message": "Liberia"
+   },
+   "LS": {
+      "message": "Lesotho"
+   },
+   "LT": {
+      "message": "Lituania"
+   },
+   "LU": {
+      "message": "Lussemburgo"
+   },
+   "LV": {
+      "message": "Lettonia"
+   },
+   "LY": {
+      "message": "Libia"
+   },
+   "MA": {
+      "message": "Marocco"
+   },
+   "MC": {
+      "message": "Monaco"
+   },
+   "MD": {
+      "message": "Moldavia"
+   },
+   "ME": {
+      "message": "Montenegro"
+   },
+   "MF": {
+      "message": "Saint Martin"
+   },
+   "MG": {
+      "message": "Madagascar"
+   },
+   "MH": {
+      "message": "Isole Marshall"
+   },
+   "MK": {
+      "message": "Macedonia"
+   },
+   "ML": {
+      "message": "Mali"
+   },
+   "MM": {
+      "message": "Birmania"
+   },
+   "MN": {
+      "message": "Mongolia"
+   },
+   "MO": {
+      "message": "Macao"
+   },
+   "MP": {
+      "message": "Isole Marianne Settentrionali"
+   },
+   "MQ": {
+      "message": "Martinica"
+   },
+   "MR": {
+      "message": "Mauritania"
+   },
+   "MS": {
+      "message": "Montserrat"
+   },
+   "MT": {
+      "message": "Malta"
+   },
+   "MU": {
+      "message": "Mauritius"
+   },
+   "MV": {
+      "message": "Maldive"
+   },
+   "MW": {
+      "message": "Malawi"
+   },
+   "MX": {
+      "message": "Messico"
+   },
+   "MY": {
+      "message": "Malesia"
+   },
+   "MZ": {
+      "message": "Mozambico"
+   },
+   "NA": {
+      "message": "Namibia"
+   },
+   "NC": {
+      "message": "Nuova Caledonia"
+   },
+   "NE": {
+      "message": "Niger"
+   },
+   "NF": {
+      "message": "Isola Norfolk"
+   },
+   "NG": {
+      "message": "Nigeria"
+   },
+   "NI": {
+      "message": "Nicaragua"
+   },
+   "NL": {
+      "message": "Paesi Bassi"
+   },
+   "NO": {
+      "message": "Norvegia"
+   },
+   "NP": {
+      "message": "Nepal"
+   },
+   "NR": {
+      "message": "Nauru"
+   },
+   "NU": {
+      "message": "Niue"
+   },
+   "NZ": {
+      "message": "Nuova Zelanda"
+   },
+   "OM": {
+      "message": "Oman"
+   },
+   "PA": {
+      "message": "Panamá"
+   },
+   "PE": {
+      "message": "Perù"
+   },
+   "PF": {
+      "message": "Polinesia francese"
+   },
+   "PG": {
+      "message": "Papua Nuova Guinea"
+   },
+   "PH": {
+      "message": "Filippine"
+   },
+   "PK": {
+      "message": "Pakistan"
+   },
+   "PL": {
+      "message": "Polonia"
+   },
+   "PM": {
+      "message": "Saint Pierre e Miquelon"
+   },
+   "PN": {
+      "message": "Pitcairn"
+   },
+   "PR": {
+      "message": "Portorico"
+   },
+   "PS": {
+      "message": "Palestina"
+   },
+   "PT": {
+      "message": "Portogallo"
+   },
+   "PW": {
+      "message": "Palau"
+   },
+   "PY": {
+      "message": "Paraguay"
+   },
+   "QA": {
+      "message": "Qatar"
+   },
+   "RE": {
+      "message": "Réunion"
+   },
+   "RO": {
+      "message": "Romania"
+   },
+   "RS": {
+      "message": "Serbia"
+   },
+   "RU": {
+      "message": "Russia"
+   },
+   "RW": {
+      "message": "Ruanda"
+   },
+   "SA": {
+      "message": "Arabia Saudita"
+   },
+   "SB": {
+      "message": "Isole Salomone"
+   },
+   "SC": {
+      "message": "Seychelles"
+   },
+   "SD": {
+      "message": "Sudan"
+   },
+   "SE": {
+      "message": "Svezia"
+   },
+   "SG": {
+      "message": "Singapore"
+   },
+   "SH": {
+      "message": "Sant’Elena"
+   },
+   "SI": {
+      "message": "Slovenia"
+   },
+   "SJ": {
+      "message": "Svalbard e Jan Mayen"
+   },
+   "SK": {
+      "message": "Slovacchia"
+   },
+   "SL": {
+      "message": "Sierra Leone"
+   },
+   "SM": {
+      "message": "Repubblica di San Marino"
+   },
+   "SN": {
+      "message": "Senegal"
+   },
+   "SO": {
+      "message": "Somalia"
+   },
+   "SR": {
+      "message": "Suriname"
+   },
+   "SS": {
+      "message": "Sudan del Sud"
+   },
+   "ST": {
+      "message": "São Tomé e Príncipe"
+   },
+   "SV": {
+      "message": "El Salvador"
+   },
+   "SX": {
+      "message": "Sint Maarten"
+   },
+   "SY": {
+      "message": "Siria"
+   },
+   "SZ": {
+      "message": "Swaziland"
+   },
+   "TC": {
+      "message": "Isole Turks e Caicos"
+   },
+   "TD": {
+      "message": "Ciad"
+   },
+   "TF": {
+      "message": "Terre australi e antartiche francesi"
+   },
+   "TG": {
+      "message": "Togo"
+   },
+   "TH": {
+      "message": "Thailandia"
+   },
+   "TJ": {
+      "message": "Tagikistan"
+   },
+   "TK": {
+      "message": "Tokelau"
+   },
+   "TL": {
+      "message": "Timor Est"
+   },
+   "TM": {
+      "message": "Turkmenistan"
+   },
+   "TN": {
+      "message": "Tunisia"
+   },
+   "TO": {
+      "message": "Tonga"
+   },
+   "TR": {
+      "message": "Turchia"
+   },
+   "TT": {
+      "message": "Trinidad e Tobago"
+   },
+   "TV": {
+      "message": "Tuvalu"
+   },
+   "TW": {
+      "message": "Taiwan"
+   },
+   "TZ": {
+      "message": "Tanzania"
+   },
+   "UA": {
+      "message": "Ucraina"
+   },
+   "UG": {
+      "message": "Uganda"
+   },
+   "UM": {
+      "message": "Isole minori esterne degli Stati Uniti"
+   },
+   "US": {
+      "message": "Stati Uniti"
+   },
+   "UY": {
+      "message": "Uruguay"
+   },
+   "UZ": {
+      "message": "Uzbekistan"
+   },
+   "VA": {
+      "message": "Città del Vaticano"
+   },
+   "VC": {
+      "message": "Saint Vincent e Grenadine"
+   },
+   "VE": {
+      "message": "Venezuela"
+   },
+   "VG": {
+      "message": "Isole Vergini Britanniche"
+   },
+   "VI": {
+      "message": "Isole Vergini Americane"
+   },
+   "VN": {
+      "message": "Vietnam"
+   },
+   "VU": {
+      "message": "Vanuatu"
+   },
+   "WF": {
+      "message": "Wallis e Futuna"
+   },
+   "WS": {
+      "message": "Samoa"
+   },
+   "YE": {
+      "message": "Yemen"
+   },
+   "YT": {
+      "message": "Mayotte"
+   },
+   "ZA": {
+      "message": "Sudafrica"
+   },
+   "ZM": {
+      "message": "Zambia"
+   },
+   "ZW": {
+      "message": "Zimbabwe"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "all_servers": {
+      "message": "Tutti i server"
+   },
+   "allways": {
+      "message": "Always"
+   },
+   "always_use_vpn_here": {
+      "message": "Usa una VPN su questi siti"
+   },
+   "always_vpn_here_descr": {
+      "message": "I seguenti siti saranno aperti mediante VPN anche se la VPN è disattivata di default"
+   },
+   "autoconnect_title": {
+      "message": "Enable on this site"
+   },
+   "buy_servers": {
+      "message": "Ottieni altri server"
+   },
+   "contact_us": {
+      "message": "Contattaci"
+   },
+   "enter_site_name": {
+      "message": "Inserisci l'indirizzo del sito"
+   },
+   "ext_description": {
+      "message": "Data protection and traffic encryption"
+   },
+   "ext_name": {
+      "description": "Protect your network traffic with strong encryption",
+      "message": "Hideman Encrypted Proxy"
+   },
+   "ext_short_name": {
+      "description": "App launcher, new tab page",
+      "message": "Hideman"
+   },
+   "forum": {
+      "message": "Forum"
+   },
+   "free_servers": {
+      "message": "Server gratuiti"
+   },
+   "help": {
+      "message": "Aiuto"
+   },
+   "lang": {
+      "message": "it"
+   },
+   "manuals": {
+      "message": "Manuali"
+   },
+   "never": {
+      "message": "Never"
+   },
+   "never_use_vpn_here": {
+      "message": "Non usare una VPN su questi siti"
+   },
+   "never_use_vpn_here_descr": {
+      "message": "I seguenti siti saranno aperti senza VPN anche se la VPN è attivata di default"
+   },
+   "proxy_global_off": {
+      "message": "VPN disattivata"
+   },
+   "proxy_global_on": {
+      "message": "VPN attivata"
+   },
+   "proxy_off_site_in_whitelist": {
+      "message": "VPN disattivata, ma questo sito funziona tramite VPN"
+   },
+   "proxy_on_site_in_blacklist": {
+      "message": "VPN attivata, ma questo sito funziona senza VPN"
+   },
+   "share_ext_text": {
+      "message": "Vuoi una buona estensione proxy? Prova Hideman"
+   },
+   "sign_in": {
+      "message": "Esci"
+   },
+   "sign_out": {
+      "message": "Esci"
+   }
+}

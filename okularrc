@@ -1,0 +1,16 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+HDMI-A-0 Height 1440x900=385
+HDMI-A-0 Width 1440x900=670
+HDMI-A-0 XPosition 1440x900=756
+HDMI-A-0 YPosition 1440x900=501
+State=AAAA/wAAAAD9AAAAAAAAAp4AAAFGAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/doc/polybar/examples/config.ini
+File2[$e]=$HOME/.config/polybar/shades/bars.ini
+Name1[$e]=config.ini
+Name2[$e]=bars.ini

@@ -1,0 +1,7 @@
+[2022-03-24 21:23:13.590] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-03-24 21:23:13.592] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-24 21:23:39.007] [renderer1] [error] ["Error: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-03-24 21:23:39.008] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-24 21:24:33.412] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/usr/share/rofi/themes/onedark.rasi' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/rofi/themes/onedark.rasi') file:///usr/share/rofi/themes/onedark.rasi
+[2022-03-24 21:24:36.181] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///usr/share/rofi/themes/onedark.rasi
+[2022-03-24 21:24:39.277] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/usr/share/rofi/themes/onedark.rasi' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/rofi/themes/onedark.rasi') file:///usr/share/rofi/themes/onedark.rasi

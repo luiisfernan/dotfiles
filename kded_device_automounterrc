@@ -1,0 +1,49 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+Icon=drive-harddisk
+LastNameSeen=Nuevo vol
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=512.0 MiB Internal Drive (sda2)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=67.9 GiB Internal Drive (sda3)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+Icon=drive-harddisk
+LastNameSeen=EFI system partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb3]
+Icon=drive-harddisk
+LastNameSeen=Basic data partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb4]
+Icon=drive-harddisk
+LastNameSeen=521.0 MiB Internal Drive (sdb4)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+Icon=drive-harddisk
+LastNameSeen=Nuevo vol
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+Icon=drive-harddisk
+LastNameSeen=513.0 MiB Internal Drive (sdc2)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc5]
+Icon=drive-harddisk
+LastNameSeen=487.0 MiB Internal Drive (sdc5)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc6]
+Icon=drive-harddisk
+LastNameSeen=50.3 GiB Internal Drive (sdc6)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
+EverMounted=true
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=ARCH_202112
+LastSeenMounted=true

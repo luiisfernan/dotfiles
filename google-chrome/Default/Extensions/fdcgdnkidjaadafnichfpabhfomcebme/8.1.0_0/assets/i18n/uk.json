@@ -1,0 +1,222 @@
+{
+    "login": {
+        "title": "Увійти",
+        "welcome": "Вітаємо",
+        "email": "Ім’я користувача/адреса електронної пошти",
+        "password": "Пароль",
+        "forgot_password": "Забули пароль?",
+        "account_question": "Не маєте облікового запису?",
+        "signup_here": "Зареєструйтеся тут!",
+        "error": "Недійсне ім’я користувача і/або пароль",
+        "errors": {
+            "invalid-credentials": "Недійсне ім’я користувача і/або пароль",
+            "rate-limit": "Забагато спроб, повторіть спробу пізніше"
+        },
+        "cta": "Логін"
+    },
+    "recover": {
+        "title": "Забув(-ла) пароль",
+        "message": "Введіть свою адресу електронної пошти, яку ви вказували під час реєстрації. Ми надішлемо вам електронний лист із інструкціями щодо відновлення паролю.",
+        "error": "Введіть дійсну адресу електронної пошти",
+        "email": "Електронна пошта",
+        "back_to_login": "Повернутися до входу",
+        "cta": "Скинути"
+    },
+    "recover_success": {
+        "title": "Перевірте папку «Вхідні»",
+        "description": "Якщо адреса електронної пошти зареєстрована в ZenMate VPN, ви маєте отримати посилання на скидання паролю."
+    },
+    "home": {
+        "protection_disabled": "Захист вимкнено",
+        "state": "ZenMate наразі вимкнено",
+        "last_location": "Останнє використане розташування",
+        "best_location": "Найкраще розташування",
+        "connected_to": "Підключено до",
+        "smart_location": "Служба <b>Smart Location</b> підключена до <b>{{country}}</b>"
+    },
+    "debug": {
+        "copy_debug": "Copy logs",
+        "clear_debug": "Clear logs",
+        "no_logs": "No logs at the moment"
+    },
+    "menu": {
+        "title": "Меню",
+        "account_details": "Відомості про обліковий запис",
+        "username": "Ім’я користувача",
+        "end_date": "Дата завершення",
+        "trial_end_date": "Пробний період завершується",
+        "manage_account": "Керувати обліковим записом",
+        "logout": "Вийти",
+        "login": "Ввійти",
+        "features": "Функції",
+        "language": "Мова",
+        "support": "Підтримка",
+        "upgrade": "Оновити до Ultimate",
+        "upgrade_pro": "Оновити до Pro",
+        "trial_start": "Розпочніть пробний період зараз",
+        "tour": "Швидкий тур",
+        "debug": "Debug",
+        "debug_mode": "Debug Mode",
+        "view_debug": "View Debug Log"
+    },
+    "servers": {
+        "title": "Змінити розташування",
+        "all_countries": "Усі країни",
+        "streaming": "Стримінгові служби",
+        "favorites": "Вибране",
+        "unblock_more": "Розблокуйте більше серверів за допомогою Pro"
+    },
+    "features": {
+        "title": "Функції",
+        "smart_location": {
+            "title": "Smart Location",
+            "state_title_on": "Smart Location увімкн.",
+            "state_title_off": "Smart Location вимк.",
+            "state_description": "Налаштуйте, як ZenMate підключається до ваших улюблений веб-сайтів, автоматично змінюючи розташування при їх відвідування!",
+            "website_url": "URL-адреса веб-сайту",
+            "change_country": "Змінити країну",
+            "websites_added": "Веб-сайти вже додано",
+            "error_existing": "Ви вже додали цей веб-сайт у білий список. Один і той самий веб-сайт не може бути одночасно у списку Smart Location та в білому списку. Для продовження видаліть його з одного списку."
+        },
+        "privacy": {
+            "title": "Конфіденційність",
+            "tracking_title": "Блокувальник стеження",
+            "tracking_description": "Захистіть свою конфіденційність, заблокувавши відстеження активності в інтернеті сторонніми службами.",
+            "malware_title": "Блокувальник шкідливих програм",
+            "malware_description": "Увімкніть блокування шкідливих сайтів і фрагментів коду перед тим, як вони потраплять у ваш браузер.",
+            "webrtc_title": "WebRTC Protect",
+            "webrtc_description": "WebRTC Protect гарантує, що ваша IP-адреса ніколи не буде виявлена в мережі."
+        },
+        "whitelist": {
+            "title": "Білий список",
+            "state_title_on": "Білий список ввімк.",
+            "state_title_off": "Білий список вимк.",
+            "state_description": "Хочете ніколи не підключатися до ZenMate під час перегляду певного веб-сайту? Просто додайте його до білого списку, і VPN автоматично вимкнеться, коли ви відвідаєте вибраний сайт.",
+            "website_url": "URL-адреса веб-сайту",
+            "websites_added": "Веб-сайти вже додано",
+            "error_existing": "Ви вже додали цей веб-сайт у список Smart Location. Один і той самий веб-сайт не може бути одночасно у списку Smart Location та в білому списку. Для продовження видаліть його з одного списку."
+        },
+        "stealth-connection": {
+            "title": "Приховане підключення",
+            "state_title_on": "Приховане підключення ввімк.",
+            "state_title_off": "Приховане підключення вимк.",
+            "ask_every_time": "Запитувати щоразу",
+            "state_description": "<b>Приховане підключення</b> видаляє ваші файли cookie, очищає вашу історію перегляду та кеш. Після відключення VPN <b>Приховане підключення</b> видаляє всі сліди вашої активності в інтернеті з моменту першого підключення до ZenMate.",
+            "website_url": "URL-адреса веб-сайту",
+            "websites_added": "Веб-сайти вже додано",
+            "error_existing": "Ви вже додали цей веб-сайт у список Smart Location. Один і той самий веб-сайт не може бути одночасно у списку Smart Location та в білому списку. Для продовження видаліть його з одного списку."
+        }
+    },
+    "marketing_banner": {
+        "home1": "Захистіть усі свої пристрої — завантажте нашу ",
+        "home2": "і нашу ",
+        "home3": "або ",
+        "windows_app": "програму для Windows ",
+        "ios_app": "програму для iOS ",
+        "android_app": "програму для Android ",
+        "macos_app": "програму для macOS ",
+        "download_cta": "Завантажити зараз",
+        "upgrade_cta": "Оновити зараз"
+    },
+    "inactive_banner": {
+        "smart_location": {
+            "text": "Налаштуйте, як ZenMate підключається до ваших улюблених веб-сайтів, автоматично змінюючи розташування при їх відвідуванні.",
+            "cta": "Розблокувати зараз"
+        },
+        "whitelist": {
+            "text": "Хочете ніколи не підключатися до ZenMate під час перегляду певного веб-сайту? Просто додайте його до білого списку, і VPN автоматично вимкнеться, коли ви відвідаєте вибраний сайт.",
+            "cta": "Розблокувати зараз"
+        },
+        "streaming": {
+            "text": "Спостерігайте за всіма улюбленими фільмами та телешоу, навіть якщо вони недоступні у вашій країні.",
+            "cta": "Розблокувати стримінг"
+        },
+        "stealth-connection": {
+            "text": "Автоматично стирайте всі сліди вашого сеансу перегляду за допомогою функції ZenMate «Приховане підключення», доступної для користувачів ZenMate Pro і Ultimate.",
+            "cta": "Розблокувати зараз"
+        }
+    },
+    "intro": {
+        "intro-heading": "<b>Вітаємо в ZenMate</b>",
+        "intro-default-heading": "<b>Створіть і підтвердьте свій обліковий запис</b><br />, щоб спробувати:",
+        "already-account": "Уже маєте обліковий запис?",
+        "login-here": "Увійти!",
+        "signup-now": "Зареєструйтеся зараз!",
+        "seven-days": "7 днів безкоштовного пробного періоду"
+    },
+    "campaign": {
+        "heading": "Відкрийте для себе з <br><b>ZenMate Ultimate</b>",
+        "features": {
+            "0": "Понад 3600 серверів із 74+ країн",
+            "1": "Розблокуйте веб-сайти та програми з обмеженим доступом.",
+            "2": "Обхід геообмежень стримінгу",
+            "3": "Захист необмеженої кількості пристроїв"
+        },
+        "cta": "Отримати ZenMate Ultimate",
+        "subCta": "Усього за 2,22 дол./місяць упродовж обмеженого часу",
+        "later": "Можливо, пізніше"
+    },
+    "queue": {
+        "heading": "На жаль, усі наші <br> сервери повністю зайняті ",
+        "heading2": "Щоб уникнути перенавантаження, <br> ви зможете підключитися найближчим часом",
+        "no_waiting": "Не хочете чекати?",
+        "upgrade": "Оновіться до <b>ZenMate Pro</b>, і ви завжди матимете<br> в наявності сервери преміальної якості",
+        "upgrade_now": "Оновити зараз"
+    },
+    "campaign_trial": {
+        "heading": "<b>Оновіться до Ultimate</b><br> і продовжуйте використання",
+        "cta": "Оновити до Ultimate"
+    },
+    "popup_validation": {
+        "heading": "Стерти всі мої кроки",
+        "paragraph": "Функцію <b>Приховане підключення</b> ввімкнено. Бажаєте повністю видалити всі свої відстеження з сеансу? <small> <br />(Видаляє файли cookie, очищує історію переглядів і кеш.)</small>",
+        "no_ask": "Не запитувати повторно і запам’ятати мої налаштування",
+        "yes": "ТАК",
+        "no": "НІ"
+    },
+    "rateus": {
+        "heading": "Вам подобається розширення?",
+        "description": "Натисніть на зірочки, щоб залишити свій відгук"
+    },
+    "proxy-warning": {
+        "heading": "Попередження проксі!",
+        "description": "Інше розширення браузера контролює налаштування вашого проксі, не дозволяючи <b>ZenMate</b> працювати. Відключіть конфліктуючі розширення.",
+        "cta": "Керувати розширеннями"
+    },
+    "onboarding": {
+        "page1_menu": "Меню",
+        "page1_future": "Потужні функції",
+        "page1_connect": "Кнопка «Підключення»",
+        "page2_click": "Натисніть сюди для зміни розташування",
+        "page3_congrats": "Вітаємо!",
+        "page3_connected": "Ви підключені!",
+        "page3_click": "Кнопка пульсує — це означає, що ви можете користуватися всіма перевагами ZenMate VPN.",
+        "page4_select": "Виберіть розташування сервера",
+        "page4_dedicated": "Виділені стримінгові сервери",
+        "page4_lcoation": "Додати розташування у вибране.",
+        "footer-title": "Клацніть у будь-якому місці, щоб продовжити",
+        "close": "Закрити"
+    },
+    "streaming_optimizations": {
+        "US_OPT": "Оптимізовано для Netflix",
+        "DE_OPT": "Netflix, YouTube, ZDF, Zattoo",
+        "IT_OPT": "Оптимізовано для Amazon Prime"
+    },
+    "error_screen": {
+        "title": "На жаль, служба не доступна у вашому регіоні",
+        "content": "Повідомте нам, якщо ви б хотіли, щоб ZenMate був доступний у вашому регіоні, заповнивши <span>запит до служби підтримки</span>"
+    },
+    "notifications": {
+        "logout": "Ви автоматично вийшли!"
+    },
+    "anonymous_consent": {
+        "title": "Конфіденційність",
+        "content": "Can we collect the following anonymous data about your use of ZenMate Free VPN:",
+        "content2": "We collect server load per country and failed connections, in order to make sure all servers work and be able to solve them in real-time for a more enjoyable experience.",
+        "content3": "If you choose not to allow us to collect anonymous data if a server will not work it will be harder for us to know about the issue.",
+        "content4": "Full details about the anonymous data we collect and what we do with it are provided in our ",
+        "private_policy": "Privacy Policy.",
+        "button1": "Yes, You can collect anonymous data in accord with your privacy policy",
+        "button2": "No, do not collect anonymous data"
+    }
+}

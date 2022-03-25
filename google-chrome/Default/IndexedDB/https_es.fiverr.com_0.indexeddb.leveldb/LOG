@@ -1,0 +1,36 @@
+2022/03/24-19:30:45.691 37e00 Reusing MANIFEST /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_es.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/24-19:30:45.691 37e00 Recovering log #143
+2022/03/24-19:30:45.691 37e00 Reusing old log /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_es.fiverr.com_0.indexeddb.leveldb/000143.log 
+2022/03/24-19:30:45.692 37e00 Delete type=2 #142
+2022/03/24-19:30:52.207 37e00 Level-0 table #148: started
+2022/03/24-19:30:52.240 37e00 Level-0 table #148: 618 bytes OK
+2022/03/24-19:30:52.282 37e00 Delete type=0 #143
+2022/03/24-19:30:52.282 37e00 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at '\x00.\x00\x00\x05' @ 1001 : 1
+2022/03/24-19:30:52.282 37e00 Compacting 1@0 + 1@1 files
+2022/03/24-19:30:52.315 37e00 Generated table #149@0: 18 keys, 643 bytes
+2022/03/24-19:30:52.315 37e00 Compacted 1@0 + 1@1 files => 643 bytes
+2022/03/24-19:30:52.340 37e00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-19:30:52.340 37e00 Delete type=2 #148
+2022/03/24-19:30:52.340 37e00 Manual compaction at level-0 from '\x00.\x00\x00\x05' @ 1001 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/24-19:30:52.340 37e00 Level-0 table #151: started
+2022/03/24-19:30:52.365 37e00 Level-0 table #151: 480 bytes OK
+2022/03/24-19:30:52.389 37e00 Delete type=2 #145
+2022/03/24-19:30:52.389 37e00 Delete type=0 #147
+2022/03/24-19:30:52.390 37e00 Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at '\x00.\x00\x00\x05' @ 1028 : 0
+2022/03/24-19:30:52.390 37e00 Compacting 1@0 + 1@1 files
+2022/03/24-19:30:52.415 37e00 Generated table #152@0: 16 keys, 675 bytes
+2022/03/24-19:30:52.415 37e00 Compacted 1@0 + 1@1 files => 675 bytes
+2022/03/24-19:30:52.438 37e00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-19:30:52.439 37e00 Delete type=2 #151
+2022/03/24-19:30:52.439 37e00 Manual compaction at level-0 from '\x00.\x00\x00\x05' @ 1028 : 0 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/24-19:30:57.741 37e00 Level-0 table #154: started
+2022/03/24-19:30:57.765 37e00 Level-0 table #154: 608 bytes OK
+2022/03/24-19:30:57.790 37e00 Delete type=0 #150
+2022/03/24-19:30:57.790 37e00 Delete type=2 #149
+2022/03/24-19:30:57.790 37e00 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at '\x000\x00\x00\x05' @ 1039 : 1
+2022/03/24-19:30:57.790 37e00 Compacting 1@0 + 1@1 files
+2022/03/24-19:30:57.815 37e00 Generated table #155@0: 24 keys, 722 bytes
+2022/03/24-19:30:57.815 37e00 Compacted 1@0 + 1@1 files => 722 bytes
+2022/03/24-19:30:57.838 37e00 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-19:30:57.839 37e00 Delete type=2 #154
+2022/03/24-19:30:57.839 37e00 Manual compaction at level-0 from '\x000\x00\x00\x05' @ 1039 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)

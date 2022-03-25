@@ -1,0 +1,25 @@
+2022/03/24-16:30:49.280 34cc Reusing MANIFEST /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_es.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/24-16:30:49.280 34cc Recovering log #136
+2022/03/24-16:30:49.280 34cc Reusing old log /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_es.fiverr.com_0.indexeddb.leveldb/000136.log 
+2022/03/24-16:30:49.281 34cc Delete type=2 #135
+2022/03/24-16:30:51.033 34cb Level-0 table #141: started
+2022/03/24-16:30:51.058 34cb Level-0 table #141: 618 bytes OK
+2022/03/24-16:30:51.098 34cb Delete type=0 #136
+2022/03/24-16:30:51.098 34cb Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at '\x00,\x00\x00\x05' @ 963 : 1
+2022/03/24-16:30:51.098 34cb Compacting 1@0 + 1@1 files
+2022/03/24-16:30:51.126 34cb Generated table #142@0: 16 keys, 552 bytes
+2022/03/24-16:30:51.126 34cb Compacted 1@0 + 1@1 files => 552 bytes
+2022/03/24-16:30:51.155 34cb compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-16:30:51.155 34cb Delete type=2 #141
+2022/03/24-16:30:51.156 34cb Manual compaction at level-0 from '\x00,\x00\x00\x05' @ 963 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/24-16:30:52.233 3481 Level-0 table #144: started
+2022/03/24-16:30:52.258 3481 Level-0 table #144: 481 bytes OK
+2022/03/24-16:30:52.285 3481 Delete type=2 #138
+2022/03/24-16:30:52.285 3481 Delete type=0 #140
+2022/03/24-16:30:52.285 3481 Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at '\x00,\x00\x00\x05' @ 990 : 0
+2022/03/24-16:30:52.285 3481 Compacting 1@0 + 1@1 files
+2022/03/24-16:30:52.316 3481 Generated table #145@0: 14 keys, 606 bytes
+2022/03/24-16:30:52.316 3481 Compacted 1@0 + 1@1 files => 606 bytes
+2022/03/24-16:30:52.342 3481 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/24-16:30:52.343 3481 Delete type=2 #144
+2022/03/24-16:30:52.343 3481 Manual compaction at level-0 from '\x00,\x00\x00\x05' @ 990 : 0 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)

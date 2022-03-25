@@ -1,0 +1,26 @@
+[2022-03-24 21:23:14.300] [exthost] [info] Extension host with pid 369711 started
+[2022-03-24 21:23:14.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-24 21:23:14.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-24 21:23:14.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-24 21:23:14.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-24 21:23:14.618] [exthost] [info] Eager extensions activated
+[2022-03-24 21:23:14.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:14.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:14.895] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:37.286] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 21:23:37.289] [exthost] [info] Extension host with pid 369711 exiting with code 0
+[2022-03-24 21:23:39.165] [exthost] [info] Extension host with pid 369862 started
+[2022-03-24 21:23:39.165] [exthost] [info] Skipping acquiring lock for /home/luiisfer/.config/Code/User/workspaceStorage/49eb1f3eddd7fb3e3d5c51757a47066f.
+[2022-03-24 21:23:39.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-24 21:23:39.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-24 21:23:39.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-24 21:23:39.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-24 21:23:39.380] [exthost] [info] Eager extensions activated
+[2022-03-24 21:23:39.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:39.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:39.388] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 21:23:42.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-24 21:23:42.195] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: '*'
+[2022-03-24 21:23:51.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-03-24 21:34:11.196] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 21:34:11.207] [exthost] [info] Extension host with pid 369862 exiting with code 0

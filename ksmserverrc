@@ -1,0 +1,31 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=pcmanfm
+count=1
+
+[Session: saved at previous logout]
+clientId1=10e1e66465000164808233600000818550005
+clientId2=10e1e66465000164796685300000005970006
+clientId3=10e1e66465000164806606300000005760007
+clientId4=10e1e66465000164808233600000818550007
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_10e1e66465000164796685300000005970006_1648082352_442684
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kmix
+program3=/usr/bin/korgac
+program4=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10e1e66465000164808233600000818550005_1648082352_442698
+restartCommand2=/usr/bin/kmix,-session,10e1e66465000164796685300000005970006_1648082352_442684
+restartCommand3=/usr/bin/korgac,-session,10e1e66465000164806606300000005760007_1648082352_442817
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=luiisfer
+userId2=luiisfer
+userId3=luiisfer
+userId4=luiisfer

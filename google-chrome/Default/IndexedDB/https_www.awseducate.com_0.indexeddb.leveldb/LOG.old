@@ -1,0 +1,6 @@
+2022/03/22-19:01:01.610 2640 Reusing MANIFEST /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_www.awseducate.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/22-19:01:01.611 2640 Recovering log #3
+2022/03/22-19:01:01.615 2640 Reusing old log /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_www.awseducate.com_0.indexeddb.leveldb/000003.log 
+2022/03/22-19:01:29.694 28d0 Level-0 table #5: started
+2022/03/22-19:01:29.864 28d0 Level-0 table #5: 2656387 bytes OK
+2022/03/22-19:01:29.941 28d0 Delete type=0 #3

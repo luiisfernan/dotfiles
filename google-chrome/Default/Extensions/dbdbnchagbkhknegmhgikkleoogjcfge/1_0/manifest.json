@@ -1,0 +1,35 @@
+{
+   "author": "Hideman LTD",
+   "background": {
+      "page": "background/background.html",
+      "persistent": true
+   },
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "externally_connectable": {
+      "matches": [ "*://*.hideman.net/*" ]
+   },
+   "homepage_url": "https://www.hideman.net",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmndlZheaU4lrcVRzbMxNZoN39h64lZpm8iQl6nZ1UmGR2TYaIDz0JQ9SekiPARqpBR3R4gCwDrXgoIqOZ9niX5tVfHFmPLuAdU6nJCAc8iZf9jbtUygvbDfPQiAt0WP9sTQn0pdP8HX3n94yjztmiD3Yh87LKCfv4l7516QpGJ73qPJj4gbJ3mXA2ri1p4enX2a0s3gx/C09l+KateGlP7i52tBaOk3G37fnvUWoTm+D9eTkOOsKTwPXxSNDc1qaY0W3UsiZxVtChVhpevQ+IxoIOIA/IEcac6kzOGaEHggM07nSRjglDTD8uL4CTJbnJiENWAUmaZYKa7UiNE0glwIDAQAB",
+   "manifest_version": 2,
+   "name": "Hideman VPN",
+   "offline_enabled": false,
+   "options_page": "options/options.html",
+   "page_action": {
+      "default_icon": {
+         "19": "icons/16_off.png",
+         "38": "icons/38_off.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "PageAction"
+   },
+   "permissions": [ "webRequest", "webRequestBlocking", "https://*/*", "http://*/*", "ftp://*/*", "background", "proxy", "storage", "tabs" ],
+   "short_name": "__MSG_ext_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><head><meta charset="UTF8"></head><body><h1 id="result">Отправить</h1><input id="token" type="text" value="RWErbHpwdmQrQkRRRG9RbzNQSjAwNnJBbTFYWUhjNzdMNHRKZkxKTFBHYTQ3YnphTTZETzl1dUVOejJPRVRhZWpPV2tza0lpQ2luNzZUWEFYcUVtdVE9PQ__"> <button onclick="sendToExtension()">send</button><script type="text/javascript">function sendToExtension() {
+        var id = "pialocblhckeebbbfencnmcikdoihnno"
+        if (!chrome) return
+        var token = document.getElementById('token').value
+        chrome.runtime.sendMessage(id, {permanentToken: token}, function(response) {
+            if (response && response.complete) {
+                document.getElementById('result').innerText = 'Зашел'
+            } else {
+                document.getElementById('result').innerText = 'Не ок'
+            }
+        });
+    }</script></body></html>

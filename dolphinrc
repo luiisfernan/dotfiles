@@ -1,0 +1,11 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,3,22,16,50,8.198
+
+[MainWindow]
+HDMI-A-0 Height 1440x900=385
+HDMI-A-0 Width 1440x900=670
+HDMI-A-0 XPosition 1440x900=754
+HDMI-A-0 YPosition 1440x900=499
+MenuBar=Disabled
+ToolBarsMovable=Disabled

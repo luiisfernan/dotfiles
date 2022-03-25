@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="assets/styles/popup.css"/>
+    <script type="text/javascript" src="assets/libs/jquery-2.1.3.min.js"></script>
+    <title>${title}</title>
+</head>
+<body style="overflow-x: hidden;">
+
+<div class="popup-container">
+	<div class="popup-body" id="option-body">
+		<div>
+  			<span id="domainText" class="lang">${currentDomain}</span>
+	  		<div id="domainUrl" class="lang" style="text-align:left">
+	  			${loading}
+	  		</div>
+          	<div id="add-url" class="add-url lang">
+				${addDomains}
+				<span>+</span>
+			</div>
+			<div id="currentURL" class="currentURL">
+				<div style="width:150px;float:left;" id="currentText" class="currentText lang">${existDomain}</div>
+				<div style="width:37px;float:right;" id="currentDel"><img id="cur-del-img" class="lang_attr alt title" src="assets/images/del1.png" alt="${deleteDomain}" title="${deleteDomain}"></img></div>
+			</div>
+			<div id="whiteURL" class="currentURL">
+				<div class="currentText lang" id="whiteText">${hasDomain}</div>
+			</div>
+		</div>
+		<section>
+			<h1 class="lang">${runModel}</h1>
+			<div class="run-model lang">
+				<div id="needed">${needed}</div>
+				<div id="always">${always}</div>
+				<div id="closed">${closed}</div>
+			</div>
+		</section>
+		<section>
+			<h1 class="lang">${currentNode}</h1>
+			<div id="row-select">
+				<h3><label class="lang">${selectNode}</label></h3>
+			</div>
+		</section>
+		
+		<section>
+			<h1 class="lang">${accountInfo}</h1>
+			<div id="persion-info-popup"  class="lang">
+			<div>
+				<label>${email}</label><span id="user_email"></span>
+			</div>
+			<div>
+				<label>${vipTime}</label><span id="vip_time"></span>
+			</div>
+			<div class="signIn">
+				<label>${freeTime}</label><span id="free_time"></span>
+			</div>
+			</div>
+		</section>
+		
+		<section>
+		<hr/>
+		<!-- <div class="app_pay lang" style="float: left;display:none;"><a id="user_type" style="font-weight:bold;color:red;">VIP</a><span id="limitDayLable">${userVIP}</span><span id="user_days" style="color:#428BCA;font-weight:bold;">0</span>${days}</div> -->
+		<span class="lang signIn" id="note">${checkIn}</span>
+		<span id="personal" class="personal lang">${personal}</span>
+		</section>
+		
+	</div>
+	
+	<div class="popup-body" id="row-body">
+		<div id="select-header">
+			<h3><a class="lang_attr title" id="return" title="${return}">&nbsp;</a><a class="lang_attr title" id="refresh" title="${refresh}">&nbsp;</a><span class="lang">${nodeList}</span></h3>
+		</div>
+		<p class="lang">${autoSelectNode}</p>
+		<div id="bu-div" class="hide">
+			<div class="auth-code auth-enabled">
+				<label class="lang red">${bu1}</label><span class="lang btn disabled">${enabled}</span>
+			</div>
+			<div class="auth-enable">
+				<p class="lang red">${bu1}</p>
+				<div class="auth-code"><input type="text" id="authCode"/><img id="authImg"  /><span class="lang btn">${enable}</span></div>
+			</div>
+		</div>
+		<hr/>
+		<div id="auto-select">
+			<label class="lang">${autoSelect}</label><input class="row-radio" id="auto-checkbox" type="checkbox" />
+		</div>
+		<p class="lang">${manualSelect}</p>
+		<hr/>
+		<div>
+			<ul id="proxyList">
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script src="assets/lang/popup_lang.js" type="text/javascript"></script>
+<script type="text/javascript" src="assets/scripts/lang.js"></script>
+<script type="text/javascript" src="assets/scripts/tools.js"></script>
+<script type="text/javascript" src="assets/scripts/common.js"></script>
+<script src="assets/scripts/popup.js" type="text/javascript"></script>	
+
+</body>
+</html>

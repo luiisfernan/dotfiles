@@ -1,0 +1,46 @@
+#translate-modal {
+	position: fixed;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 400;
+	width: 300px;
+	background-color: rgba(0,0,0,0.80);
+	border-radius: 8px;
+	margin: auto;
+	margin-left:-150px;
+	top: 30%;
+	left:50%;
+	z-index: 99999;
+	padding: 0 14px 12px;
+	min-height: 80px;
+	display:none;
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.80);
+}
+#translate-modal #close-button {
+	position: absolute;
+	top: 5px;
+	right: 12px;
+	color: white;	
+	font-weight: 500;
+	font-size: 20px;
+	border-radius: 3px;
+	width:auto;
+	height:auto;
+}
+#translate-modal #close-button:hover {
+	cursor:pointer;
+}
+#translate-modal #title {
+	color: white;	
+	font-weight: 700;
+	font-size: 16px;
+	padding-top: 12px;
+	cursor:move;
+}
+#translate-modal #translation-content {
+	color: white;	
+	font-weight: 400;
+	font-size: 13px;	
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
+

@@ -1,0 +1,6 @@
+2022/03/24-20:29:03.657 50a7e Creating DB /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb since it was missing.
+2022/03/24-20:29:03.771 50a7e Reusing MANIFEST /home/luiisfer/.config/google-chrome/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/24-20:29:52.657 51737 Level-0 table #5: started
+2022/03/24-20:29:52.690 51737 Level-0 table #5: 6936 bytes OK
+2022/03/24-20:29:52.714 51737 Delete type=0 #3
+2022/03/24-20:29:52.714 51737 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

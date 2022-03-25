@@ -1,0 +1,23 @@
+{
+   "background": {
+      "page": "/background.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/translate.css" ],
+      "js": [ "js/jquery-1.8.1.min.js", "js/jquery-ui-1.8.24.custom.min.js", "js/common.js", "js/contentscript.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Right click to translate any word quickly and easily.",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj94o522QUwxJ+FKbBnzGwO3byItz2gNYBXCCuGUSfEtUfASxMqECq6eDayZaBDWS4E2sXAGmC5T4K8XEoA4skUO6Yk7erG7wNfSJtIcxatO4vdVeTBsYc540VKJaKON7RUtoHdIhU2r2PuoI3azZ7obCgep4TShlk8IaQDu2n96W/zM92u8Qt9yzMnkCneZDgIMwAwE3ukv+fB+N6aA3EzqSP+D2ml3s1jW5TGBmbPr3SGWdOlObxwcXrJy7bWFrhZUGOIeym9SjDM/QYDkz+ZeQmUldR/oceXEeLsH2irFV3WtyCyu5owYDWQGV0FcC1esYQIiJAEUd+Pp015mZuQIDAQAB",
+   "manifest_version": 2,
+   "name": "Click Translate",
+   "options_page": "/options.html",
+   "permissions": [ "\u003Call_urls>", "contextMenus", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

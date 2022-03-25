@@ -1,0 +1,2 @@
+[2022-03-22 16:50:36.542] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-03-22 16:50:36.543] [renderer1] [warning] Settings Sync: Accounts are not initialized

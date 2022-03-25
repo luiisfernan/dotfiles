@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "assets/images/logo-blue-24x24.png",
+      "default_popup": "popup.html",
+      "default_title": "FastStunnel"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/scripts/free.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_manifest_appDescription__",
+   "icons": {
+      "128": "assets/images/logo-blue-128x128.png",
+      "16": "assets/images/logo-blue-16x16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsggblor0+lvi8QbPefT1dYtLVIauQxFMDKwMffEBWqWbOlCyeiCr6gp55sJmr0So2ic6hjnMsrCx4Ez/FsFkCCX+drVY3GAPoBYF/qKguWeBqZIHk04+WXsNubdnn4LzU44tnM5lMCwPcAjKQUBFI8yDH5VTrm31NizcIQ5f/vUb2NF2KvNyIZ4gPu+xqLYnL6/ZmPJodcwfphKQj+xIn9SX1Jb583NrmTabRpi/2Ne5gsXupagfmPdDnFKbNBsRtxhKY69A4Ih210DXgG1/FWHSoM/Qt4zaFjD/yi66Y3QytRzT5UwSSisOS3YNP+GrsBgm1EEYiBrqVdhrsUJ11QIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "22.0.0",
+   "name": "__MSG_manifest_appName__",
+   "options_page": "main.html",
+   "permissions": [ "privacy", "proxy", "tabs", "notifications", "webRequest", "webRequestBlocking", "management", "http://*/*", "https://*/*" ],
+   "short_name": "FastStunnel",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.607",
+   "web_accessible_resources": [ "widget.html" ]
+}

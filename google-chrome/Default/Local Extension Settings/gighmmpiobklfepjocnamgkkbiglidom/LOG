@@ -1,0 +1,17 @@
+2022/03/24-23:51:03.361 a0c Reusing MANIFEST /home/luiisfer/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/03/24-23:51:03.361 a0c Recovering log #327
+2022/03/24-23:51:03.361 a0c Reusing old log /home/luiisfer/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000327.log 
+2022/03/24-23:52:07.007 a53 Level-0 table #330: started
+2022/03/24-23:52:07.244 a53 Level-0 table #330: 7524676 bytes OK
+2022/03/24-23:52:07.271 a53 Delete type=0 #327
+2022/03/24-23:52:07.275 a53 Compacting 4@0 + 2@1 files
+2022/03/24-23:52:07.599 a53 Generated table #331@0: 1 keys, 7524465 bytes
+2022/03/24-23:52:07.633 a53 Generated table #332@0: 5 keys, 373 bytes
+2022/03/24-23:52:07.633 a53 Compacted 4@0 + 2@1 files => 7524838 bytes
+2022/03/24-23:52:07.657 a53 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/24-23:52:07.657 a53 Delete type=2 #326
+2022/03/24-23:52:07.658 a53 Delete type=2 #319
+2022/03/24-23:52:07.658 a53 Delete type=2 #321
+2022/03/24-23:52:07.658 a53 Delete type=2 #330
+2022/03/24-23:52:07.658 a53 Delete type=2 #324
+2022/03/24-23:52:07.658 a53 Delete type=2 #318

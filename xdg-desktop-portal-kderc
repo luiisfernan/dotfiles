@@ -1,0 +1,8 @@
+[FileDialogSize]
+HDMI-A-0 Height 1440x900=563
+HDMI-A-0 Width 1440x900=838
+
+[KFileDialog Settings]
+Recent Files[$e]=pexels-luis-gomes-546819.jpg,file:$HOME/Documents/1200x-1.jpg,file:$HOME/Documents/golden-retriever-royalty-free-image-506756303-1560962726.jpg,file:$HOME/Documents/5484d9d1eab8ea3017b17e29.webp,file:$HOME/Documents/pexels-luis-nada-546819.jpg,file:$HOME/Imagenes/pexels-luis-gomes-546819.jpg
+Recent URLs[$e]=file:$HOME/Imagenes/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/
+detailViewIconSize=16

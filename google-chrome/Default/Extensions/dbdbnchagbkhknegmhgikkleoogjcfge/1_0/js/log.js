@@ -1,0 +1,1 @@
+var Log=new function(){function n(){return(new Error).stack.split("\n")[3].trim()}var o=this,i=!0;o.api=function(n){i&&console.log(n)},o.i=function(o,i){i&&(o+=" "+n()),console.log(o)},o.d=function(o,i){i&&(o+=" "+n()),console.log(o+" "+n())},o.e=function(o,i){i&&(o+=" "+n())}};

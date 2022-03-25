@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "off128.png",
+         "48": "off48.png",
+         "64": "off64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "HideMe"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Unblock websites and stay secure with HideMe",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgt452sBLKevV/PNo8hqywLNHznJHG1mCJK7i+g/LIApb1woZlcHJ78+Cmkz6HoB9y5c7xuyNACV/2iFE9yEOy44t4QvTvQvsg3Ai2FMPCph+Uvj3mDmnRnY0SQsCPUCqDVE027oZ+hTNX+3re7muWWVX9rxVrrVQgMDnfnRzBjrr1e2DEcDMnZqu+gDSCAM6kCEGmofmA/LnyBHGG5GbT+LRubcs8wWCZ+YUi6Cjw3zJzhTPjwUESXlFOVkmJqqi9FVhZAsk4YrQEzLmSJjHMxCFonIMfbcUAbJzb0ZJkvdpvzFIaL94L/l/Cw78aXGnmPDSnEyyE0pEMpfs1HO4vQIDAQAB",
+   "manifest_version": 2,
+   "name": "HideMe FreeVPN",
+   "permissions": [ "proxy", "storage", "alarms", "notifications" ],
+   "short_name": "HideMe VPN",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "18.5.10"
+}

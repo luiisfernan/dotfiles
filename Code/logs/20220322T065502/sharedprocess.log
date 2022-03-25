@@ -1,0 +1,22 @@
+[2022-03-22 06:55:05.627] [sharedprocess] [info] Starting worker process with pid 51893 (type: fileWatcher, window: 1).
+[2022-03-22 06:55:12.914] [sharedprocess] [info] Getting Manifest... indexx-theme.themeindexx
+[2022-03-22 06:55:12.923] [sharedprocess] [info] Installing extension: indexx-theme.themeindexx
+[2022-03-22 06:55:19.765] [sharedprocess] [info] Downloaded extension: indexx-theme.themeindexx /home/luiisfer/.config/Code/CachedExtensionVSIXs/indexx-theme.themeindexx-0.0.1
+[2022-03-22 06:55:19.795] [sharedprocess] [info] Extracted extension to /home/luiisfer/.vscode/extensions/.d66f718c-408d-4d7d-941c-e85115b7cfcf: indexx-theme.themeindexx
+[2022-03-22 06:55:20.232] [sharedprocess] [info] Renamed to /home/luiisfer/.vscode/extensions/indexx-theme.themeindexx-0.0.1
+[2022-03-22 06:55:20.233] [sharedprocess] [info] Extracting completed. indexx-theme.themeindexx
+[2022-03-22 06:55:20.235] [sharedprocess] [info] Extension installed successfully: indexx-theme.themeindexx
+[2022-03-22 06:55:33.806] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-03-22 06:55:33.818] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-03-22 06:55:48.374] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /home/luiisfer/.config/Code/CachedExtensionVSIXs/equinusocio.vsc-material-theme-icons-2.2.1
+[2022-03-22 06:55:50.936] [sharedprocess] [info] Extracted extension to /home/luiisfer/.vscode/extensions/.65cda217-494b-4c8d-98b3-dc5c88ba5767: equinusocio.vsc-material-theme-icons
+[2022-03-22 06:55:51.039] [sharedprocess] [info] Renamed to /home/luiisfer/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.2.1
+[2022-03-22 06:55:51.041] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-03-22 06:55:51.050] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+[2022-03-22 06:55:59.817] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-03-22 06:55:59.828] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-03-22 06:56:23.457] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/luiisfer/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.3.0
+[2022-03-22 06:56:23.777] [sharedprocess] [info] Extracted extension to /home/luiisfer/.vscode/extensions/.737f1dba-e901-41e5-a6f7-247a386a0aed: esbenp.prettier-vscode
+[2022-03-22 06:56:23.827] [sharedprocess] [info] Renamed to /home/luiisfer/.vscode/extensions/esbenp.prettier-vscode-9.3.0
+[2022-03-22 06:56:23.828] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-03-22 06:56:23.830] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
